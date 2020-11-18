@@ -1,0 +1,20 @@
+[app/install/install_source_checksum]
+version = 8.0.0
+modtime = 1595512829.812771000
+
+[transforms/trend_imsva_msgtra_internal_hostname]
+version = 8.0.0
+modtime = 1595599770.579465000
+
+[transforms/trend_imsva_msgtra_src_dst]
+version = 8.0.0
+modtime = 1595601035.939687000
+
+[inputs/monitor%3A%2F%2F%2Fopt%2Fimsva]
+owner = admin
+version = 8.0.0
+modtime = 1595625626.358493000
+
+[eventtypes/trend_imsva_polevt_email]
+version = 8.0.0
+modtime = 1598049741.554819000
